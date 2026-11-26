@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "question": "What is the minimum attendance percentage required to write the end-semester exam?",
+    "expected_keywords": ["75"],
+    "expected_pages": [12],
+    "answerable": true
+  },
+  {
+    "id": 2,
+    "question": "What is the capital city of Australia?",
+    "answerable": false
+  }
+]

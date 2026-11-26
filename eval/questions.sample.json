@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "question": "What is the minimum attendance percentage required to write the end-semester examination?",
+    "expected_keywords": [
+      "75"
+    ],
+    "expected_pages": [
+      1
+    ],
+    "answerable": true
+  },
+  {
+    "id": 2,
+    "question": "What is the condonation fee per course for a student with shortage of attendance?",
+    "expected_keywords": [
+      "500"
+    ],
+    "expected_pages": [
+      1
+    ],
+    "answerable": true
+  },
+  {
+    "id": 3,
+    "question": "Below what attendance percentage is condonation not available?",
+    "expected_keywords": [
+      "65"
+    ],
+    "expected_pages": [
+      1
+    ],
+    "answerable": true
+  },
+  {
+    "id": 4,
+    "question": "Within how many days of result publication must a revaluation request be submitted?",
+    "expected_keywords": [
+      "7"
+    ],
+    "expected_pages": [
+      2
+    ],
+    "answerable": true
+  },
+  {
+    "id": 5,
+    "question": "What is the minimum percentage a student must score in the end-semester examination to pass a course?",
+    "expected_keywords": [
+      "40"
+    ],
+    "expected_pages": [
+      2
+    ],
+    "answerable": true
+  },
+  {
+    "id": 6,
+    "question": "What is the late fee per day for delayed tuition payment?",
+    "expected_keywords": [
+      "100"
+    ],
+    "expected_pages": [
+      3
+    ],
+    "answerable": true
+  },
+  {
+    "id": 7,
+    "question": "What percentage tuition fee waiver does the merit scholarship provide?",
+    "expected_keywords": [
+      "25"
+    ],
+    "expected_pages": [
+      3
+    ],
+    "answerable": true
+  },
+  {
+    "id": 8,
+    "question": "What percentage of the tuition fee is refunded if a student withdraws within 10 days of admission?",
+    "expected_keywords": [
+      "90"
+    ],
+    "expected_pages": [
+      3
+    ],
+    "answerable": true
+  },
+  {
+    "id": 9,
+    "question": "How much does the hostel mess charge per day?",
+    "expected_keywords": [
+      "140"
+    ],
+    "expected_pages": [
+      4
+    ],
+    "answerable": true
+  },
+  {
+    "id": 10,
+    "question": "On which day are visitors allowed in the hostel?",
+    "expected_keywords": [
+      "sunday"
+    ],
+    "expected_pages": [
+      4
+    ],
+    "answerable": true
+  },
+  {
+    "id": 11,
+    "question": "What is the minimum CGPA required to be eligible for campus placements?",
+    "expected_keywords": [
+      "6.5"
+    ],
+    "expected_pages": [
+      5
+    ],
+    "answerable": true
+  },
+  {
+    "id": 12,
+    "question": "Which committee handles ragging complaints?",
+    "expected_keywords": [
+      "anti-ragging"
+    ],
+    "expected_pages": [
+      5
+    ],
+    "answerable": true
+  },
+  {
+    "id": 13,
+    "question": "What is the capital city of Australia?",
+    "answerable": false
+  },
+  {
+    "id": 14,
+    "question": "Who wrote the novel Pride and Prejudice?",
+    "answerable": false
+  },
+  {
+    "id": 15,
+    "question": "What is the boiling point of water at sea level in Celsius?",
+    "answerable": false
+  }
+]
